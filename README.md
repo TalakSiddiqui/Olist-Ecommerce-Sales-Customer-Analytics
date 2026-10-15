@@ -71,6 +71,8 @@ SQL techniques used:
 
 ## 📈 Power BI Dashboard
 
+<img width="1114" height="172" alt="image" src="https://github.com/user-attachments/assets/d66feac3-a4f8-4c54-8a72-04871a483f56" />
+
 The Power BI dashboard provides an interactive view of:
 
 - Total Sales
