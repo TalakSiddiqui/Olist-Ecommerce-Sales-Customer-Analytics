@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d2d6e9f3-fb6d-48a5-86cc-9a0c753d7a88" />
+<img width="780" height="546" alt="image" src="https://github.com/user-attachments/assets/63626280-893e-46ac-b3ae-679f36290dfe" />
 
 This project analyses the Olist e-commerce dataset to understand sales performance, customer behaviour, order trends, product performance, and regional sales patterns.
 
